@@ -1,4 +1,4 @@
-##👋 Salut, moi c’est 404-Fr4nc1s !
+## 👋 Salut, moi c’est 404-Fr4nc1s !
 - 🎮 J'aime modifier des jeux existants pour améliorer l'expérience de jeu, comme **FiveM** ou **Scrap Mechanic**.  
 - 🧠 J’apprends actuellement le **Lua** et la **modélisation 3D**, et je compte bientôt plonger dans le monde des **bases de données**.
 
