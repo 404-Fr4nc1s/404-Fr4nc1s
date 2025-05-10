@@ -1,6 +1,6 @@
 ## 👋 Salut, moi c’est 404-Fr4nc1s !
 - 🎮 J'aime modifier des jeux existants pour améliorer l'expérience de jeu, comme **FiveM** ou **Scrap Mechanic**.  
-- 🧠 J’apprends actuellement le **Lua** et la **modélisation 3D**, et je compte bientôt plonger dans le monde des **bases de données**.
+- 🧠 J’apprends actuellement le Lua, les bases de données ainsi que la modélisation 3D, afin d’ajouter de nouvelles choses dans GTA V – FiveM.
 
 ## 🚀 Projets réalisés
 - 🏠 **Maison écologique** – Un projet scolaire modélisé sur Blender pour se démarquer.
