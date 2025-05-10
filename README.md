@@ -12,7 +12,7 @@
 ## 🛠️ Compétences et outils
 - **Langages** : HTML / CSS / JavaScript, Lua, Python  
 - **Modélisation** : Blender  
-- **Autres** : JSON, développement de bots, création de contenu modifié pour jeux vidéoµ
+- **Autres** : JSON, développement de bots, création de contenu modifié pour jeux vidéo
 
 <!---
 404-Fr4nc1s/404-Fr4nc1s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
