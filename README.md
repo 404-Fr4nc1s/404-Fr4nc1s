@@ -1,16 +1,16 @@
 ## 👋 Salut, moi c’est 404-Fr4nc1s !
 - 🎮 J'aime modifier des jeux existants pour améliorer l'expérience de jeu, comme **FiveM** ou **Scrap Mechanic**.  
-- 🧠 J’apprends actuellement le Lua, les bases de données ainsi que la modélisation 3D, afin d’ajouter de nouvelles choses dans GTA V – FiveM.
+- 🧠 J’apprends actuellement les bases de la modélisation 3D, afin d’ajouter de nouvelles choses dans GTA V – FiveM.
 
 ## 🚀 Projets réalisés
 - 🏠 **Maison écologique** – Un projet scolaire modélisé sur Blender pour se démarquer.
 - 🔧 **Scripts & MLO pour FiveM** – Création et personnalisation de contenu pour serveurs GTA RP.
 - 🌐 **Sites Web** – Réalisés dans le cadre de mes études.
 - 🛠️ **Modifications de fichiers JSON** – Pour améliorer le gameplay dans *Scrap Mechanic*.
-- 🤖 **Bot Discord** – Développé pour automatiser des tâches.
+- 🤖 **Bot Discord** – Développé pour automatiser des tâches et faciliterla gestion d'un jeu.
 
 ## 🛠️ Compétences et outils
-- **Langages** : HTML / CSS / JavaScript, Lua, Python  
+- **Langages** : HTML / CSS / Python  
 - **Modélisation** : Blender  
 - **Autres** : JSON, développement de bots, création de contenu modifié pour jeux vidéo
 
