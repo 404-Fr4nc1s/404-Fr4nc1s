@@ -4,7 +4,7 @@ Passionné par l'informatique, l’automatisation et ainsi que la création de p
 
 ---
 
-## 🧠 À propos de moi 
+## 🧍🏻‍♂️ À propos de moi 
 
 - Étudiant en **Maths** & **NSI**
 - Je cherche à maîtriser/apprendre ce que je fais, pas juste à l’utiliser  
@@ -16,7 +16,7 @@ Passionné par l'informatique, l’automatisation et ainsi que la création de p
 
 ---
 
-## 🚀 Projets principaux
+## Projets principaux
 
 ### 🤖 Bots & API (Projet Perso)
 
@@ -60,7 +60,7 @@ Passionné par l'informatique, l’automatisation et ainsi que la création de p
 
 ---
 
-### ⚙️ Outils
+### ⚙️ Outils que j'utilise
 - Android Studio  
 - Git / GitHub  
 - Blender  
@@ -69,7 +69,7 @@ Passionné par l'informatique, l’automatisation et ainsi que la création de p
 
 ---
 
-## 🎯 Mon Objectif
+## Mon Objectif
 
 Apprendre de nouvelles choses tout en cherchant à comprendre en profondeur les domaines que j’explore.  
 Ce que j’aime le plus dans l’informatique, c’est la possibilité de toucher à tout : découvrir, expérimenter et apprendre.
